@@ -20,14 +20,19 @@ The labelled data that we are handling has the format of one token per line with
 For the EN dataset, the format can be something like the following:
 
 Best O 
+
 Deal O 
+
 Chiang B-positive 
+
 mai I-positive 
+
 Tours I-positive , O
 
 
 ### Scripts
 The source codes are easy to work with, for all the parts, simply run the kernel in the jupyter notebook.
+
 The notebook contains all relevant and required information to understand the codes.
 
 The output files are in their individual folders in /Scripts.
@@ -53,3 +58,6 @@ The output files are in their individual folders in /Scripts.
   1. dev.p5.out
   - FR/
   1. dev.p5.out
+
+### Contributors
+Loh Wei Quan, Bryan Phua
